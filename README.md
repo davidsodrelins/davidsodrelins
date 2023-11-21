@@ -1,7 +1,7 @@
 # 💫 About Me:
  𝐇𝐄𝐋𝐋𝐎!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - David Sodré - I love code and Coffe!!😎
 
-I am a Senior Software Engineer with over a decade of experience in the technology industry. I have expertise in both frontend and backend development and am an educator in the technology field. I have a strong background in Computer Science, with a degree from the Federal University of Bahia, and a specialization in Software Development with Agile Methodologies from the University of Salvador and College.
+I am a Software Engineer with over a decade of experience in the technology industry. I have expertise in both frontend and backend development and am an educator in the technology field. I have a strong background in Computer Science, with a degree from the Federal University of Bahia, and a specialization in Software Development with Agile Methodologies from the University of Salvador and College.
 
 ## 🚀 Professional Experience:
 Currently, I work as a Specialist in Fullstack Software Engineering at Experian. Here, I have developed a Data Quality tool for the communications sector and worked extensively with Java, Angular, and EKS. My time at Experian has demonstrated my ability to handle complex projects and deliver solutions that drive business growth.
