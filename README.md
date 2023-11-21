@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Resume/CV](https://img.shields.io/badge/-resume-red?logo=readme&logoColor=white)](https://www.davidsodre.com.br/#about) 
+[![Resume/CV](https://img.shields.io/badge/-resume-red?logo=Resume/CV&logoColor=white)](https://www.davidsodre.com.br/#about) 
 [![WEBPAGE](https://img.shields.io/badge/-Homepage-blue?logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/) 
 
