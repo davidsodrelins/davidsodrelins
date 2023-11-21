@@ -4,10 +4,11 @@
 
 ## 🌐 Socials:
 
-[![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
-[![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidsodrelins/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/)
+[![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
+[![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidsodrelins/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/)
+
 
 
 ## 💻 Tech Stack:
