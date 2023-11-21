@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/) 
-[![WEBPAGE](https://img.shields.io/badge/%27Visit%20my%20WEBPAGE%27%20-20B2AA?style=for-the-badge)](https://www.davidsodre.com.br) 
+[![WEBPAGE](https://img.shields.io/badge/-Homepage-blue?logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
 
 
 # 💻 Tech Stack:
