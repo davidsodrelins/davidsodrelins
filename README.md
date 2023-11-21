@@ -4,12 +4,13 @@
 
 ## 🌐 Socials:
 
-[![Resume/CV](https://img.shields.io/badge/Resume-CV-red?logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
-[![WEBPAGE](https://img.shields.io/badge/-Homepage-blue?logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/) 
+[![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
+[![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidsodrelins/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -34,17 +35,19 @@
 [![KANBAN](https://img.shields.io/badge/kanban-%2300C4CC.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)
 [![Scrum](https://img.shields.io/badge/scrum-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
 
-# 💼 Soft Skills:
-![Communication Skills](https://img.shields.io/badge/Communication%20Skills-%2300C4CC.svg?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Teamwork-%2300C4CC.svg?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%2300C4CC.svg?style=for-the-badge)
-![Flexibility](https://img.shields.io/badge/Flexibility-%2300C4CC.svg?style=for-the-badge)
-![Time Management](https://img.shields.io/badge/Time%20Management-%2300C4CC.svg?style=for-the-badge)
-![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-%2300C4CC.svg?style=for-the-badge)
-![Leadership](https://img.shields.io/badge/Leadership-%2300C4CC.svg?style=for-the-badge)
-![Empathy](https://img.shields.io/badge/Empathy-%2300C4CC.svg?style=for-the-badge)
-![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-%2300C4CC.svg?style=for-the-badge)
-![Professional Ethics](https://img.shields.io/badge/Professional%20Ethics-%2300C4CC.svg?style=for-the-badge)
+## 🧰 Soft Skills:
+
+[![Habilidades de comunicação](https://img.shields.io/badge/Habilidades%20de%20comunicação-%2300C4CC.svg?style=for-the-badge&logo=agile&logoColor=white)](https://agilemanifesto.org/)
+[![Trabalho em equipe](https://img.shields.io/badge/Trabalho%20em%20equipe-%2300C4CC.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)
+[![Resolução de problemas](https://img.shields.io/badge/Resolução%20de%20problemas-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
+[![Flexibilidade](https://img.shields.io/badge/Flexibilidade-%2300C4CC.svg?style=for-the-badge&logo=flexibility&logoColor=white)](https://example.com/)
+[![Gestão de tempo](https://img.shields.io/badge/Gestão%20de%20tempo-%2300C4CC.svg?style=for-the-badge&logo=time&logoColor=white)](https://example.com/)
+[![Pensamento crítico](https://img.shields.io/badge/Pensamento%20crítico-%2300C4CC.svg?style=for-the-badge&logo=critical&logoColor=white)](https://example.com/)
+[![Liderança](https://img.shields.io/badge/Liderança-%2300C4CC.svg?style=for-the-badge&logo=leadership&logoColor=white)](https://example.com/)
+[![Empatia](https://img.shields.io/badge/Empatia-%2300C4CC.svg?style=for-the-badge&logo=empathy&logoColor=white)](https://example.com/)
+[![Aprendizado contínuo](https://img.shields.io/badge/Aprendizado%20contínuo-%2300C4CC.svg?style=for-the-badge&logo=learning&logoColor=white)](https://example.com/)
+[![Ética profissional](https://img.shields.io/badge/Ética%20profissional-%2300C4CC.svg?style=for-the-badge&logo=ethics&logoColor=white)](https://example.com/)
+
 
 
 
