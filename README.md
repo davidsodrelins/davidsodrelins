@@ -38,16 +38,17 @@
 
 ## 💼 Soft Skills:
 
-[![Habilidades de comunicação](https://img.shields.io/badge/Habilidades%20de%20comunicação-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Habilidades_de_comunica%C3%A7%C3%A3o)
-[![Trabalho em equipe](https://img.shields.io/badge/Trabalho%20em%20equipe-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Trabalho_em_equipe)
-[![Resolução de problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20problemas-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Resolu%C3%A7%C3%A3o_de_problemas)
-[![Flexibilidade](https://img.shields.io/badge/Flexibilidade-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Flexibilidade)
-[![Gestão de tempo](https://img.shields.io/badge/Gest%C3%A3o%20de%20tempo-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Gest%C3%A3o_do_tempo)
-[![Pensamento crítico](https://img.shields.io/badge/Pensamento%20cr%C3%ADtico-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Pensamento_cr%C3%ADtico)
-[![Liderança](https://img.shields.io/badge/Lideran%C3%A7a-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Lideran%C3%A7a)
-[![Empatia](https://img.shields.io/badge/Empatia-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Empatia)
-[![Aprendizado contínuo](https://img.shields.io/badge/Aprendizado%20cont%C3%ADnuo-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/Aprendizado)
-[![Ética profissional](https://img.shields.io/badge/%C3%89tica%20profissional-%2300C4CC.svg?style=for-the-badge&logoColor=white)](https://pt.wikipedia.org/wiki/%C3%89tica_profissional)
+[![Habilidades de comunicação](https://img.shields.io/badge/Habilidades%20de%20comunicação-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=blueviolet)](https://pt.wikipedia.org/wiki/Habilidades_de_comunica%C3%A7%C3%A3o)
+[![Trabalho em equipe](https://img.shields.io/badge/Trabalho%20em%20equipe-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=green)](https://pt.wikipedia.org/wiki/Trabalho_em_equipe)
+[![Resolução de problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20problemas-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=blue)](https://pt.wikipedia.org/wiki/Resolu%C3%A7%C3%A3o_de_problemas)
+[![Flexibilidade](https://img.shields.io/badge/Flexibilidade-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=darkorange)](https://pt.wikipedia.org/wiki/Flexibilidade)
+[![Gestão de tempo](https://img.shields.io/badge/Gest%C3%A3o%20de%20tempo-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=forestgreen)](https://pt.wikipedia.org/wiki/Gest%C3%A3o_do_tempo)
+[![Pensamento crítico](https://img.shields.io/badge/Pensamento%20cr%C3%ADtico-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=indigo)](https://pt.wikipedia.org/wiki/Pensamento_cr%C3%ADtico)
+[![Liderança](https://img.shields.io/badge/Lideran%C3%A7a-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=darkred)](https://pt.wikipedia.org/wiki/Lideran%C3%A7a)
+[![Empatia](https://img.shields.io/badge/Empatia-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=slategray)](https://pt.wikipedia.org/wiki/Empatia)
+[![Aprendizado contínuo](https://img.shields.io/badge/Aprendizado%20cont%C3%ADnuo-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=tomato)](https://pt.wikipedia.org/wiki/Aprendizado)
+[![Ética profissional](https://img.shields.io/badge/%C3%89tica%20profissional-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=gold)](https://pt.wikipedia.org/wiki/%C3%89tica_profissional)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
