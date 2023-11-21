@@ -1,10 +1,12 @@
 # 💫 About Me:
- 𝐇𝐄𝐋𝐋𝐎!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - David Sodré - ɪ ᴀᴍ ᴀ SOFTWARE ENGINEER (FRONTEND, BACKEND, DATA MODELING, CLOUD)....😎
+ 𝐇𝐄𝐋𝐋𝐎!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - David Sodré - ɪ ᴀᴍ ᴀ software engineer, I love code and Coffe!!😎
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/) 
+
+[![Resume/CV](https://img.shields.io/badge/-resume-red?logo=readme&logoColor=white)](https://www.davidsodre.com.br/#about) 
 [![WEBPAGE](https://img.shields.io/badge/-Homepage-blue?logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/) 
 
 
 # 💻 Tech Stack:
