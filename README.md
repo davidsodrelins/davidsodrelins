@@ -2,7 +2,7 @@
  𝐇𝐄𝐋𝐋𝐎!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - David Sodré - I love code and Coffe!!😎
 
 I am a Software Engineer with over a decade of experience in the technology industry. I have expertise in both frontend and backend development and am an educator in the technology field. I have a strong background in Computer Science, with a degree from the Federal University of Bahia, and a specialization in Software Development with Agile Methodologies from the University of Salvador and College.
-
+[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ## 🚀 Professional Experience:
 Currently, I work as a Specialist in Fullstack Software Engineering at Experian. Here, I have developed a Data Quality tool for the communications sector and worked extensively with Java, Angular, and EKS. My time at Experian has demonstrated my ability to handle complex projects and deliver solutions that drive business growth.
 
@@ -81,5 +81,4 @@ I am always eager to connect with fellow professionals, share insights, and expl
 [![Agile](https://img.shields.io/badge/agile-%2300C4CC.svg?style=for-the-badge&logo=agile&logoColor=white)](https://agilemanifesto.org/)
 [![KANBAN](https://img.shields.io/badge/kanban-%23339933.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)
 [![Scrum](https://img.shields.io/badge/scrum-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
-[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
