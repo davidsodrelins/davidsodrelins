@@ -10,9 +10,6 @@ Before joining Experian, I led the software engineering department at Accenture,
 
 At CodeSquare, I showcased my fullstack capabilities by developing REST APIs, managing system maintenance, and working with Angular and PrimeNG. My career also includes significant teaching experience at Senai, where I imparted practical knowledge in software development, with an emphasis on good programming practices.
 
-
-[![Visits](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
 ## 🌐 Skills and Expertise:
 
 - **Frontend:** <br>
@@ -84,4 +81,5 @@ I am always eager to connect with fellow professionals, share insights, and expl
 [![Agile](https://img.shields.io/badge/agile-%2300C4CC.svg?style=for-the-badge&logo=agile&logoColor=white)](https://agilemanifesto.org/)
 [![KANBAN](https://img.shields.io/badge/kanban-%23339933.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)
 [![Scrum](https://img.shields.io/badge/scrum-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
-[![Visits](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
+- count
+[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
