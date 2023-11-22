@@ -1,17 +1,21 @@
-# 💫 About Me:
- 𝐇𝐄𝐋𝐋𝐎!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - David Sodré - I love code and Coffe!!😎
+## 💫 About Me:
+𝐇𝐄𝐋𝐋𝐎!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - David Sodré - I love code and Coffe!!😎
+
+## 🌐 Socials:
+[![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
+[![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidsodrelins/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/)
 
 I am a Software Engineer with over a decade of experience in the technology industry. I have expertise in both frontend and backend development and am an educator in the technology field. I have a strong background in Computer Science, with a degree from the Federal University of Bahia, and a specialization in Software Development with Agile Methodologies from the University of Salvador and College.
 
-## 🚀 Professional Experience:
-Currently, I work as a Specialist in Fullstack Software Engineering at Experian. Here, I have developed a Data Quality tool for the communications sector and worked extensively with Java, Angular, and EKS. My time at Experian has demonstrated my ability to handle complex projects and deliver solutions that drive business growth.
+## ✨ What Sets Me Apart:
+My career is not just about software development; it's about leading, educating, and innovating. The combination of hands-on development, team leadership, and educational roles has given me a unique perspective on the technology industry. I believe in not just building software but also building relationships and nurturing future talent in the technology field.
 
-Before joining Experian, I led the software engineering department at Accenture, where I was responsible for developing an international platform using cutting-edge technologies such as MongoDB, Laravel, React, and AWS. In addition to development, I supported my team by providing leadership and guidance in various project management activities.
-
-At CodeSquare, I showcased my fullstack capabilities by developing REST APIs, managing system maintenance, and working with Angular and PrimeNG. My career also includes significant teaching experience at Senai, where I imparted practical knowledge in software development, with an emphasis on good programming practices.
+## 📈 Looking Forward:
+I am always eager to connect with fellow professionals, share insights, and explore new opportunities. Whether it's discussing the latest tech trends, potential collaborations, or sharing knowledge, please feel free to get in touch!
 
 ## 🌐 Skills and Expertise:
-
 - **Frontend:** <br>
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)[![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
@@ -28,21 +32,7 @@ At CodeSquare, I showcased my fullstack capabilities by developing REST APIs, ma
 - **Methodologies:**<br>
   [![Agile](https://img.shields.io/badge/agile-%2300C4CC.svg?style=for-the-badge&logo=agile&logoColor=white)](https://agilemanifesto.org/)[![KANBAN](https://img.shields.io/badge/kanban-%23339933.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)[![Scrum](https://img.shields.io/badge/scrum-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
 
-## ✨ What Sets Me Apart:
-My career is not just about software development; it's about leading, educating, and innovating. The combination of hands-on development, team leadership, and educational roles has given me a unique perspective on the technology industry. I believe in not just building software but also building relationships and nurturing future talent in the technology field.
-
-## 📈 Looking Forward:
-I am always eager to connect with fellow professionals, share insights, and explore new opportunities. Whether it's discussing the latest tech trends, potential collaborations, or sharing knowledge, please feel free to get in touch!
-
-## 🌐 Socials:
-
-[![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
-[![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidsodrelins/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/)
-
 ## 💼 Soft Skills:
-
 [![Communication Skills](https://img.shields.io/badge/Communication%20Skills-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=blueviolet)](https://en.wikipedia.org/wiki/Communication_skills)
 [![Teamwork](https://img.shields.io/badge/Teamwork-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=green)](https://en.wikipedia.org/wiki/Teamwork)
 [![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/Problem_solving)
@@ -53,7 +43,6 @@ I am always eager to connect with fellow professionals, share insights, and expl
 [![Empathy](https://img.shields.io/badge/Empathy-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=slategray)](https://en.wikipedia.org/wiki/Empathy)
 [![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=tomato)](https://en.wikipedia.org/wiki/Lifelong_learning)
 [![Professional Ethics](https://img.shields.io/badge/Professional%20Ethics-%2300C4CC.svg?style=for-the-badge&logoColor=white&color=gold)](https://en.wikipedia.org/wiki/Professional_ethics)
-
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -83,3 +72,9 @@ I am always eager to connect with fellow professionals, share insights, and expl
 [![KANBAN](https://img.shields.io/badge/kanban-%23339933.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)
 [![Scrum](https://img.shields.io/badge/scrum-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
 [![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
+[![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidsodrelins/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/)
