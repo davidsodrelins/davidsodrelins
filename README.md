@@ -71,10 +71,12 @@ I am always eager to connect with fellow professionals, share insights, and expl
 [![Agile](https://img.shields.io/badge/agile-%2300C4CC.svg?style=for-the-badge&logo=agile&logoColor=white)](https://agilemanifesto.org/)
 [![KANBAN](https://img.shields.io/badge/kanban-%23339933.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)
 [![Scrum](https://img.shields.io/badge/scrum-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
-[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=resume&logoColor=white)](https://www.davidsodre.com.br/#about) 
 [![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.davidsodre.com.br) 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidsodrelins/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidsodrelins/)
+<br><br>
+[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
