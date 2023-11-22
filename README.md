@@ -84,4 +84,4 @@ I am always eager to connect with fellow professionals, share insights, and expl
 
 
 
-[![](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![Visits](https://visitcount.itsvg.in/api?id=davidsodrelins&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
